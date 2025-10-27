@@ -1,7 +1,7 @@
 # Invisible Cloak using OpenCV
 
 This project creates a **magical invisibility effect** using computer vision!  
-By detecting a specific color (like a red or blue cloth), the program replaces those colored pixels with the **background**, making the object appear **invisible** 🪄.
+By detecting a specific color (like a red or blue cloth), the program replaces those colored pixels with the **background**, making the object appear **invisible**.
 
 ---
 
